@@ -18,16 +18,12 @@ pip install asreview>=1.0 asreview-insights>=1.1.2 asreview-datatools
 
 The performance on the following datasets is evaluated:
 
-- data/prior_Bos_2018.csv
-- data/Bos_2018.csv
+- data\Bos_2018.csv
+- data\prior_Bos_2018.csv
 
 ## Run simulation
 
-To start the simulation, run the following command in the project directory.
-
-```sh
-sh jobs.sh
-```
+To start the simulation, run the `jobs.bat` file.
 
 ## Structure
 
@@ -35,10 +31,10 @@ The following files are found in this project:
 
     📦Makita
     ├── 📜README.md
-    ├── 📜jobs.sh
+    ├── 📜jobs.bat
     ├── 📂data
-    │   ├── 📜prior_Bos_2018.csv
     │   ├── 📜Bos_2018.csv
+    │   ├── 📜prior_Bos_2018.csv
     ├── 📂generated_data
     │   ├── 📜dataset_with_priors.csv
     │   ├── 📜dataset_without_priors.csv
@@ -64,16 +60,16 @@ The following files are found in this project:
         ├── 📂tables
         |   ├── 📜data_descriptives.csv
         |   ├── 📜data_descriptives.xlsx
-        |   ├── 📜tds_sim_prior_Bos_2018.csv
-        |   ├── 📜tds_sim_prior_Bos_2018.xlsx
         |   ├── 📜tds_sim_Bos_2018.csv
         |   ├── 📜tds_sim_Bos_2018.xlsx
+        |   ├── 📜tds_sim_prior_Bos_2018.csv
+        |   ├── 📜tds_sim_prior_Bos_2018.xlsx
         |   ├── 📜tds_summary.csv
         |   ├── 📜tds_summary.xlsx
-        |   ├── 📜metrics_sim_prior_Bos_2018_metrics.csv
-        |   ├── 📜metrics_sim_prior_Bos_2018_metrics.xlsx
         |   ├── 📜metrics_sim_Bos_2018_metrics.csv
         |   ├── 📜metrics_sim_Bos_2018_metrics.xlsx
+        |   ├── 📜metrics_sim_prior_Bos_2018_metrics.csv
+        |   ├── 📜metrics_sim_prior_Bos_2018_metrics.xlsx
         |   ├── 📜metrics_summary.csv
         |   └── 📜metrics_summary.xlsx
         └── 📂figures

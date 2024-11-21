@@ -31,13 +31,13 @@
         "id": "n_missing_title",
         "title": "Number of records with missing title",
         "description": "The number of records in the dataset with missing title.",
-        "value": 0
+        "value": 2
       },
       {
         "id": "n_missing_abstract",
         "title": "Number of records with missing abstract",
         "description": "The number of records in the dataset with missing abstract.",
-        "value": 64
+        "value": 62
       },
       {
         "id": "n_duplicates",

@@ -42,7 +42,7 @@
             {
                 "id": "loss",
                 "title": "Loss",
-                "value": 0.055249472944483485
+                "value": 0.05501054111033029
             },
             {
                 "id": "erf",
@@ -57,7 +57,7 @@
             {
                 "id": "atd",
                 "title": "Average Time to Discovery",
-                "value": 170.24
+                "value": 169.56
             },
             {
                 "id": "td",
@@ -161,7 +161,7 @@
                     ],
                     [
                         497,
-                        1690
+                        1673
                     ]
                 ]
             },
