@@ -1,0 +1,9 @@
+doi,title,abstract,label_included
+,,"empirical studies validating and assessing software metrics in the area of software fault prediction.
+Empirical studies (academic and industry) using large and small scale data sets
+comparing software metrics performance in the area of software fault prediction.",0
+,,"without an empirical validation or including experimental results of software metrics in fault prediction
+discussing software metrics in a context other than software fault prediction (e.g. maintainability)
+discussing modeling techniques (e.g. Naive Bayes, Random Forest) and not software metrics.
+discussing and comparing prediction techniques
+proposing new software metrics and not empirically validating them",1

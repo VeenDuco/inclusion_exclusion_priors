@@ -1,0 +1,18 @@
+doi,title,abstract,label_included
+,,"The search was not limited by the year of publication. Journal papers and conference proceedings were included.  During the systematic review, we included empirical studies validating and assessing software metrics in the area of software fault prediction. For the selection of primary studies, the following inclusion and exclusion criteria were used.
+
+ Empirical studies (academic and industry) using large and small
+scale data sets AND.
+ Studies comparing software metrics performance in the area of
+software fault prediction.",0
+,,"Exclusion criteria:
+ Studies without an empirical validation or including experimental
+results of software metrics in fault prediction OR.
+Studies discussing software metrics in a context other than software
+fault prediction (e.g. maintainability) OR.
+ Studies discussing modeling techniques (e.g. Naive Bayes, Random
+Forest) and not software metrics.
+
+Studies discussing and comparing prediction techniques were
+excluded from the review, Studies proposing new software metrics and not empirically
+validating them were also excluded",1

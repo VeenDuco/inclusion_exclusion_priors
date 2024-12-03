@@ -31,7 +31,7 @@
         "id": "n_missing_title",
         "title": "Number of records with missing title",
         "description": "The number of records in the dataset with missing title.",
-        "value": 5
+        "value": 7
       },
       {
         "id": "n_missing_abstract",
