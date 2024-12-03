@@ -1,0 +1,9 @@
+doi,title,abstract,label_included
+,,"reported in a paper published in English as either a Journal paper or Conference proceedings.
+If the same study appeared in several publications we included only the most comprehensive or most recent.
+An empirical study
+Focused on predicting faults in units of a software system
+Faults in code is the main output (dependent variable)",0
+,,"repeated studies
+Focused on: testing, fault injection, inspections, reliability modelling, aspects, effort estimation, debugging, faults relating to memory leakage, nano-computing, fault tolerance.
+About the detection or localisation of existing individual known faults.",1

@@ -18,16 +18,12 @@ pip install asreview>=1.0 asreview-insights>=1.1.2 asreview-datatools
 
 The performance on the following datasets is evaluated:
 
-- data/Bos_2018.csv
-- data/prior_Bos_2018_clean.csv
+- data\Bos_2018.csv
+- data\prior_Bos_2018_clean.csv
 
 ## Run simulation
 
-To start the simulation, run the following command in the project directory.
-
-```sh
-sh jobs.sh
-```
+To start the simulation, run the `jobs.bat` file.
 
 ## Structure
 
@@ -35,7 +31,7 @@ The following files are found in this project:
 
     📦Makita
     ├── 📜README.md
-    ├── 📜jobs.sh
+    ├── 📜jobs.bat
     ├── 📂data
     │   ├── 📜Bos_2018.csv
     │   ├── 📜prior_Bos_2018_clean.csv
