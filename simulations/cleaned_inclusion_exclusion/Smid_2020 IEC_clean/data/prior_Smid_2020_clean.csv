@@ -5,7 +5,7 @@ Simulation study. Multiple replicated datasets were analyzed, and results were s
 Bayesian estimation was compared to frequentist estimation methods. The performance of Bayesian and frequentist estimation was investigated for the exact same model, so that the results can be compared across the two estimation methods.
 Structural equation models. Models of interest fall under the umbrella of structural equation models including mediation, CFA [ confirmatory factor analysis], latent growth, multilevel, and mixture models.
 Small sample size. The original  authors stated that at least one of the sample sizes in the simulation study represent a small sample size for their specific model.  Small sample conditions must have been reported explicitly
-English references",0
+English references",1
 ,,"books, book chapters, conference talks and software manuals
 Network analysis, machine learning, meta-analysis and item response theory
-Aggregated results including small sample conditions",1
+Aggregated results including small sample conditions",0
