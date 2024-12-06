@@ -4,7 +4,7 @@ doi,title,abstract,label_included
  Empirical studies (academic and industry) using large and small
 scale data sets AND.
  Studies comparing software metrics performance in the area of
-software fault prediction.",0
+software fault prediction.",1
 ,,"Exclusion criteria:
  Studies without an empirical validation or including experimental
 results of software metrics in fault prediction OR.
@@ -15,4 +15,4 @@ Forest) and not software metrics.
 
 Studies discussing and comparing prediction techniques were
 excluded from the review, Studies proposing new software metrics and not empirically
-validating them were also excluded",1
+validating them were also excluded",0

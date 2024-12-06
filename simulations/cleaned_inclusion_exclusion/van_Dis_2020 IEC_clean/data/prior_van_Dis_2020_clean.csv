@@ -2,9 +2,9 @@ doi,title,abstract,label_included
 ,,"Randomized clinical trials that examined effects of CBT [cognitive behavior therapy] (ie, any therapy with cognitive restructuring and/or a behavioral therapy, such as exposure, as core component), including third generation CBTs (ie, acceptance and commitment therapy and metacognitive therapy), at least 1month after treatment completion, in an individual, group, or internet treatment format.
 Comparison groups included care as usual (ie, anything patients would normally receive as long as it was not a structured type of psychotherapy, such as primary care at medical centers or case management with educational groups), relaxation, psychoeducation, pill placebo, supportive therapy, or waiting list.
 they tested adult patients (or samples consisting mostly of adults but also some adolescents aged ≥16 years) who received a diagnosis of GAD, PD, SAD, specific phobia, PTSD, or OCD based on results of a structured diagnostic interview. 
-English language articles only",0
+English language articles only",1
 ,,"did not use CBT [cognitive behavior therapy] (eg, applied relaxation, eye movement desensitization and reprocessing, or interpersonal therapy)
 did not report symptoms separately for each disorder.
 used self-guided therapy without any guidance
 used CBT combined with medication or pill placebo
-tested inpatients",1
+tested inpatients",0
