@@ -4,7 +4,7 @@ Testing how well it works to use inclusion and exclusion criteria as priors for 
 
 ## Data 
 
-The data for the inclusion and exclusion criteria are based upon @ca8cb9e. Two versions are used. The first version in which the raw eligibility criteria are split into inclusion and exclusion criteria. A second version in which these are cleaned up. 
+The data for the inclusion and exclusion criteria are based upon [PR #115 in synergy-dataset](https://github.com/asreview/synergy-dataset/pull/115). Two versions are used. The first version in which the raw eligibility criteria are split into inclusion and exclusion criteria. A second version in which these are cleaned up. 
 
 ## Preliminary Results
 
