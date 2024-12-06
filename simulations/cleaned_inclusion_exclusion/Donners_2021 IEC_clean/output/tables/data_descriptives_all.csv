@@ -1,3 +1,0 @@
-,n_records,n_relevant,n_irrelevant,n_unlabeled,n_missing_title,n_missing_abstract,n_duplicates
-data_stats_dataset_without_priors.json,258,15,243,0,1,8,0
-data_stats_dataset_with_priors.json,260,16,244,0,3,9,0
