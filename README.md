@@ -4,7 +4,22 @@ Testing how well it works to use inclusion and exclusion criteria as priors for 
 
 ## Data 
 
-The data for the inclusion and exclusion criteria are based upon [PR #115 in synergy-dataset](https://github.com/asreview/synergy-dataset/pull/115). Two versions are used. The first version in which the raw eligibility criteria are split into inclusion and exclusion criteria. A second version in which these are cleaned up. 
+The data for the inclusion and exclusion criteria are based upon [PR #115 in synergy-dataset](https://github.com/asreview/synergy-dataset/pull/115). Two versions are used, a raw and a cleaned version.
+
+For the raw inclusion/exclusion data the starting point were the eligibility criteria from the [Synergy repository](https://github.com/asreview/synergy-dataset). These were then manually split into an inclusion and exclusion statement, without altering the text.
+
+The cleaned up data was created in the following way:
+
+The starting point were the eligibility criteria that can be found in the Synergy repository.
+Then, the following steps were done manually:
+- Distribute criteria over multiple lines (1 per (set) of criteria)
+- Strip all parts that mean include/exclude (this usually includes the word "not")
+- Strip all parts that explain why something was included/excluded
+- And/Or: And is usually distributed over multiple lines, or is kept in the same line.
+- Some papers have duplicate inverted criteria (the exclusion contains a negative), in those cases I removed the negative criteria (as they were already in the other list)
+- Criteria for the search were not included in the list
+- The text was kept the same as much as possible.
+
 
 ## Preliminary Results
 
