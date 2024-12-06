@@ -1,0 +1,2 @@
+For the raw inclusion/exclusion data the starting point were the eligibility criteria from the Synergy repository.
+These were then manually split into an inclusion and exclusion statement, without altering the text.

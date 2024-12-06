@@ -1,0 +1,11 @@
+The cleaned up data was created in the following way:
+
+The starting point were the eligibility criteria that can be found in the Synergy repository.
+Then, the following steps were done manually:
+- Distribute criteria over multiple lines (1 per (set) of criteria)
+- Strip all parts that mean include/exclude (this usually includes the word "not")
+- Strip all parts that explain why something was included/excluded
+- And/Or: And is usually distributed over multiple lines, or is kept in the same line.
+- Some papers have duplicate inverted criteria (the exclusion contains a negative), in those cases I removed the negative criteria (as they were already in the other list)
+- Criteria for the search were not included in the list
+- The text was kept the same as much as possible.
