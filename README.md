@@ -20,6 +20,17 @@ Then, the following steps were done manually:
 - Criteria for the search were not included in the list
 - The text was kept the same as much as possible.
 
+## Method
+
+The [Makita prior template](https://github.com/asreview/asreview-makita?tab=readme-ov-file#prior-template) was used to simulate the 26 systematic reviews comprising the Synergy dataset using custom prior knowledge.
+
+In the prior template, data input is made up of one fully labeled dataset to be simulated, in this case a Synergy dataset, and another dataset containing the custom records to be used as prior knowledge in the simulation. 
+
+For the prior knowledge dataset, the inclusion/exclusion criteria were entered as relevant/irrelevant records, placing the text in the abstract column. 
+
+Running the template produces two simulations, one using the custom prior knowledge of inclusion/exclusion criteria and one using a minimal set of randomly selected records from the fully labeled dataset as prior knowledge. Prioritising the comparative recall plot, the generation of wordclouds was skipped.
+
+This process was done for all 26 Synergy datasets, once using the ‘raw’ inclusion/exclusion criteria and again using the ‘cleaned’ version of the data.
 
 ## Preliminary Results
 
